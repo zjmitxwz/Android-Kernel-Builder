@@ -3,7 +3,7 @@
       "name": "miku-KernelSU",
       "repo": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250.git",
       "branch": "upstream",
-      "device": "vendor/kona-perf_defconfig"
+      "device": "vendor/umi_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
